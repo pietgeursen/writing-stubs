@@ -7,6 +7,8 @@ Ideas for blogs or things I've learned.
 - Personal projects vs tutorials
 - Anxiety
 - Teams, empathy, emotional intelligence and facilitation
+- Crying and vulnerability.
+- Live coding is a powerful tool.
 
 ## Things I learned on holiday
 
